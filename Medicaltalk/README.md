@@ -1,4 +1,5 @@
 Requirments To Run This Project:
+--------------------------------
 
 -> python 3.9.7 (Conda)
 -> django 3.2.5
